@@ -15,6 +15,7 @@ module.exports = {
     "no-console": "off",
     "no-restricted-globals": "off", 
     "max-len": "off",
-    "linebreak-style": ["error", (process.platform === "win32" ? "windows" : "unix")]
+    "linebreak-style": ["error", (process.platform === "win32" ? "windows" : "unix")],
+    "global-require": "off"
   }
 };
