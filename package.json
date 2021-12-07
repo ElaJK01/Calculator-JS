@@ -7,7 +7,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --env=jsdom",
+    "test": "jest --env=jsdom --coverage",
     "lint": "eslint src/",
     "lint:fix": "eslint --fix src/",
     "build": "webpack"
