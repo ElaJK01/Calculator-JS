@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pl-incode/exercise-7-nasa-calculator-kosmiczne-rachunki.git"
+    "url": "git+https://github.com/ElaJK01/Calculator-JS.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pl-incode/exercise-7-nasa-calculator-kosmiczne-rachunki/issues"
+    "url": "https://github.com/ElaJK01/Calculator-JS/issues"
   },
-  "homepage": "https://github.com/pl-incode/exercise-7-nasa-calculator-kosmiczne-rachunki#readme",
+  "homepage": "https://github.com/ElaJK01/Calculator-JS#readme",
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.16.0",
     "eslint": "^8.2.0",
